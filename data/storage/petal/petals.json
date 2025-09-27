@@ -1,0 +1,62 @@
+[
+	{
+		"name": "siyuan-plugin-background-cover",
+		"displayName": "替换背景图片",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-ttf-HarmonyOS_Sans_SC-and-Twemoji",
+		"displayName": "鸿蒙字体(简)和 Twemoji",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-optimizer",
+		"displayName": "M - 思源笔记优化器",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "document-styler",
+		"displayName": "M - 文档样式拓展",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "homepage",
+		"displayName": "首页",
+		"enabled": false,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]

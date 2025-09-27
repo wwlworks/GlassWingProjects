@@ -1,0 +1,44 @@
+{
+  "name": "siyuan-optimizer",
+  "author": "TransMux",
+  "url": "https://github.com/TransMux/siyuan-optimizer",
+  "version": "1.1.0",
+  "minAppVersion": "3.0.12",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "docker"
+  ],
+  "frontends": [
+    "desktop",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "en_US": "M - SiYuan Optimizer",
+    "zh_CN": "M - 思源笔记优化器"
+  },
+  "description": {
+    "en_US": "Optimize your SiYuan notes by merging duplicate documents and removing empty documents",
+    "zh_CN": "优化思源笔记性能"
+  },
+  "readme": {
+    "en_US": "README_en_US.md",
+    "zh_CN": "README.md"
+  },
+  "funding": {
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "optimizer",
+    "merge",
+    "cleanup",
+    "优化器",
+    "合并",
+    "清理"
+  ]
+}

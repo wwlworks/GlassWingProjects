@@ -1,0 +1,27 @@
+{
+  "name": "siyuan-plugin-background-cover",
+  "author": "HowcanoeWang",
+  "url": "https://github.com/HowcanoeWang/siyuan-plugin-background-cover",
+  "version": "0.4.8",
+  "minAppVersion": "3.1.20",
+  "backends": ["all"],
+  "frontends": ["desktop", "mobile", "desktop-window", "browser-desktop", "browser-mobile"],
+  "displayName": {
+    "default": "Background Cover",
+    "zh_CN": "替换背景图片"
+  },
+  "description": {
+    "default": "Add a picture you like to cover the entire Siyuan Note",
+    "zh_CN": "添加一张你喜欢的图片铺满整个思源笔记"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.md",
+    "en_US": "README_en_US.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "https://github.com/HowcanoeWang"
+  }
+}
